@@ -79,7 +79,7 @@ const Login = () => {
               </div>
             </div>
           </div>
-          <h1 className="text-3xl font-bold tracking-tight">HyperPal</h1>
+          <h1 className="text-3xl font-bold tracking-tight">SuggestorX</h1>
           <p className="mt-2 text-muted-foreground">Your personal AI recommendation engine</p>
         </motion.div>
 
