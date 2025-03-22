@@ -103,7 +103,7 @@ const Sidebar = ({ open, setOpen }: SidebarProps) => {
                       </svg>
                     </div>
                   </div>
-                  <h1 className="text-xl font-semibold">HyperPal</h1>
+                  <h1 className="text-xl font-semibold">SuggestorX</h1>
                 </div>
               </div>
 
